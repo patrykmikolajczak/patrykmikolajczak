@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?label=12makers.pl&style=for-the-badge&url=https%3A%2F%2F12makers.pl)](https://12makers.pl)
 [![Website](https://img.shields.io/website?label=dev.to&style=for-the-badge&url=https%3A%2F%2Fdev.to)](https://dev.to/patrykmikolajczak)
 
-## I'm a Husband, Developer, and Woodworker
+## I'm a Husband, Developer, Woodworker, Mechanic and Teacher
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: 
     - Contribute more to Open Source projects
