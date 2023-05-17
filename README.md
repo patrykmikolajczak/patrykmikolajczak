@@ -1,7 +1,6 @@
 ### Hi there, I'm Patryk
 
-[![Website](https://img.shields.io/website?label=wyraj.com.pl&style=for-the-badge&url=https%3A%2F%2Fwyraj.com.pl)](https://wyraj.com.pl)
-[![Website](https://img.shields.io/website?label=dev.to&style=for-the-badge&url=https%3A%2F%2Fdev.to)](https://dev.to/patrykmikolajczak)
+[![Website](https://img.shields.io/website?label=youtube.com/@robimyt4/&style=for-the-badge&url=https%3A%2F%2Fyoutube.com/@robimyt4/)](https://www.youtube.com/@robimyt4/)
 
 ## I'm a Husband, Developer, Woodworker, Mechanic and Teacher
 - 👯 I’m looking to collaborate with other content creators
