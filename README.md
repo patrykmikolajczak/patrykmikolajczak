@@ -5,6 +5,8 @@
 - 🥅 2024 Goals: 
     - building a CV on GitHub
     - creating a YT channel (and other social media) about programming
+    - learn Docker & Kubernetes
+    - earn CCNA & LPIC-1
 
 
 ### Find me on:
